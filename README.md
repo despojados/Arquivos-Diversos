@@ -1,0 +1,2 @@
+# Arquivos-Diversos
+Outros arquivos
